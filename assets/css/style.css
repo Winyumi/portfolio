@@ -119,6 +119,15 @@ main section h2 {
     border-bottom: 2px solid #ddd;
     cursor: default;
 }
+main section h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.1em;
+    color: #6f7c7c;
+    margin: 0.83em 0;
+    cursor: default;
+}
 
 
 /* Footer */
@@ -169,6 +178,9 @@ figure {
     float: left;
     margin: 0 0 30px;
 }
+figure:hover {
+    box-shadow: 0 0 5px #00000022;
+}
 figure img {
     max-width: 100%;
     height: auto;
@@ -182,7 +194,6 @@ figure figcaption {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    cursor: default;
     transition: background 0.2s
 }
 figure:hover figcaption {
