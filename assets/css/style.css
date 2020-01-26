@@ -16,7 +16,7 @@ body {
     color: #777;
 }
 a {
-    color: #4aaaa5;
+    color: #a12032;
     text-decoration: underline;
 }
 img {
@@ -50,7 +50,7 @@ header h1 {
     font-size: 32px;
     font-weight: bold;
     line-height: 1.1em;
-    background-color: #4aaaa5;
+    background-color: #a12032;
     color: white;
     margin: 0;
     padding: 27px 35px;
@@ -113,7 +113,7 @@ main section h2 {
     font-size: 32px;
     font-weight: bold;
     line-height: 1.1em;
-    color: #4aaaa5;
+    color: #a12032;
     margin: 0.83em 0;
     padding-bottom: 30px;
     border-bottom: 2px solid #ddd;
@@ -134,7 +134,7 @@ main section h3 {
 footer {
     height: 60px;
     background-color: #666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #a12032;
     box-sizing: border-box;
     color: #999;
     text-align: center;
@@ -152,11 +152,11 @@ footer .copyright {
 /* Forms */
 
 .btn-primary {
-    background-color: #4aaaa5;
-    border-color: #4aaaa5;
+    background-color: #a12032;
+    border-color: #a12032;
 }
 .btn-primary:hover {
-    background-color: #1b817c;
+    background-color: #74101d;
 }
 textarea {
     min-height: 200px;
@@ -186,7 +186,7 @@ figure img {
     height: auto;
 }
 figure figcaption {
-    background-color: #4aaaa5;
+    background-color: #a12032;
     padding: 0.75em 0;
     position: absolute;
     bottom: 8px;
@@ -197,5 +197,5 @@ figure figcaption {
     transition: background 0.2s
 }
 figure:hover figcaption {
-    background-color: #1b817c;
+    background-color: #a12032;
 }
